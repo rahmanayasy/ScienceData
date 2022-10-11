@@ -1,0 +1,38 @@
+Assalamualaikum warahmatullah wabarakatuh
+di scene kali ini saya akan membuat tutorial step by step penginstalan software rapid miner
+
+sebelum masuk ke tutorial saya akan menjelaskan fungsi rapidminer dalam science data. apa fungsi software rapidminer??
+yaitu software data mining/ data science dengan desain alur kerja secara visual,
+nah, aplikasi ini dikembangkan dimulai pada tahun 2001 oleh Ralf KlinkenBerg, Ingo Mierswa, dan Simon Ficher
+
+Ngga sabar niih pakai aplikasinya, sebelumnya kita harus menginstallnya dulu pada PC temen temen semua niih, giman cara instalnya?
+1. Download softwarenya bisa search di Google Rapidminer lalu pilih di website resminya atau bisa Copy Paste link ini (https://my.rapidminer.com/nexus/account/index.html#downloads) pilih sesuai Operating System yang temen temen pakai
+2. jika sudah selesai download, buka file instalasi yang di download  tadi, kemudian ikuti instruksi instalasinya (Penjabaran instalasi nya di bawah ini)
+  2.a Klik "Next"
+  2.b Klik "I Agree"
+  3.c Pilih Destination atau lokasi instalasi terserah dimana saja (saran sesuai default) kemudian Klik "Install"
+  2.d Tunggu Hingga proses install selesai
+  2.e jika proses install sudah selesai aktifkan centang Launch RapidMiner Studio jika mau langsung dibuka/ Nonaktifkan centang jika tidak mau langsung di buka
+  2.f Klik "Finish"
+3. Jika sudah selesai Install, buka aplikasi RapidMiner Studionya (Jika muncul pop-up windows Security Alert Klik "Allow Access")
+4. Kemudian akan muncul EULA (End User License Agreement) jika baru pertama kali buka, aktifkan centang pada "I have Read ......" dan klik "I Accept"
+5. saat aplikasinya terbuka masukkan email dan password akun RapidMiner, Jika belum ada lakukan registrasi terlebih dahulu (untuk tutorial regist ada di bagian bawah)
+
+Berikut adalah tutorial registrasi RapidMiner account (Mengacu pada Point 5 pada sesi instalasi RapidMiner)
+1. Buka Website (https://my.rapidminer.com/nexus/account/index.html#signup?product=studio)
+2. Pilih Commercial purpose (agar lebih opensource saat digunakan)
+3. masukkan
+  a. nama depan
+  b. nama terakhir
+  c. nama organisasi/lembaga
+  d. bidang fokus
+  e. Nomor HP (aktif)
+  f. Buat Password Baru
+  g. Masukkan Password yang tadi dibuat
+4. Kemudian tekan Register
+
+untuk instalasi software RapidMiner Studio cukup mudah bukan, untuk sesi penggunaannya akan saya berikan di file yang lain
+
+Selamat Mencoba :)
+
+Wassalamualaikum Warahmatullah Wabarakatuh
