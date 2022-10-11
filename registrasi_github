@@ -1,0 +1,36 @@
+Assalamualaikum warahmatullah wabarakatuh
+sebelum masuk ke tutorial registrasi akun GitHub alangkah baiknya temen temen mengenal asal usul github
+
+github ini adalah salah satu layanan cloud Virtual Control System,
+apa itu VCS/ virtual Control System??
+VCS adalah Sistem yang menyimpan & mengelola rekaman perubahan dari source code, nah salah satu softwarenya yaitu Git
+Git adalah  salah satu software PC yang harus di install di PC yang bisa melakukan VCS dan dioperasikan secara offline di PC masing masing creator, Git ini dapat di akases online dengan cara di integrasikan dengan GitHub
+GitHub yaitu salah satu website/ layanan untuk mengelola Git.
+
+namun untuk melakukan VCS tidak perlu menginstal Git, cukup mengunjungi website GitHub (https://github.com) anda sudah bisa melakukan VCS secara online
+
+Tutorial registrasi akun GitHub:
+1.  Kunjungi Website https://github.com
+2.  Masukkan email user
+3.  Buat Password baru untuk akun GitHub
+4.  Membuat username baru yang tersedia/ belum terdaftar pada GitHub oleh siapapun
+5.  Verfikasi dengan Puzzle
+
+untuk lebih jelasnya bisa melihat video tutorial yang ada pada folder ini/ mengunjungi youtube dengan link di bawah ini:
+Link YT: https://youtu.be/XLJe7CUoywY
+
+untuk mengoperasikan GitHub alangkah baiknya kita mengerti istilah istilah dasar dalam Git:
+1.  repo 		  --> folder project
+2.  commit 	  --> Rekaman/ snapshot dari repo
+3.  Hash 		  --> Penanda unik pada sebuah commit
+4.  checkout  --> berpindah ke sebuah commit
+5.  branch 	  --> cabang bebas dari sebuah commit
+6.  merge 	  --> manggabungkan branch
+7.  remote    --> sumber yang dimiliki repo
+8.  clone 	  --> mengambil repo dari remote
+9.  push 		  --> mengirimkan commit ke repo
+10. pull 		  --> mengambil commit dari repo
+
+sekian materi yang dapat saya sampaikan, jika ada pertanyaan atau diskusi silahkan bisa ketik langsung dengan comment
+
+wassalamualaikum warahmatullah wabarakatuh
